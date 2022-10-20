@@ -1,2 +1,2 @@
-This is the readme file fo Firstcry# Firsrcry
-first repo
+This is the readme file fo Firstcry
+removed trash
