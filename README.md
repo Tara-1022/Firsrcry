@@ -1,2 +1,1 @@
-This is the readme file fo Firstcry
-removed trash
+This is the readme file for Firstcry
